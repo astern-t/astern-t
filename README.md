@@ -16,10 +16,10 @@
 
 ### Languages
 
-* Java
-* HTML
-* CSS
-* Tailwind CSS
+* ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat\&logo=java\&logoColor=white) Java
+* ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white) HTML
+* ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white) CSS
+* ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat\&logo=tailwind-css\&logoColor=white) Tailwind CSS
 
 ### Databases
 
