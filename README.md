@@ -1,60 +1,64 @@
-## Hi there, I'm Swarnil Raj! 👋
-
-**Aspiring Software Developer | Java Enthusiast | Web & Security Researcher**
+# 👋 Swarnil Raj – Aspiring Software Developer
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-- 🎓 Pursuing **Master of Computer Application (MCA)** at NIET, Greater Noida (2025 batch)
-- 💻 Passionate about **Java development, problem-solving, and system security**
-- 🌐 Exploring **front-end & web development** along with full-stack projects
-- 🔍 Researching **cybersecurity & application security**
-- 🎨 Hobbyist in **drawing, and creative thinking**
-
----
-
-### 🛠 Tech Stack
-
-**Languages:**\
-
-
-
-
-**Databases: **\
-
-
-**Frameworks & Tools:**\
-
-
-
+* 🎓 Pursuing **Master of Computer Application (MCA)** at NIET, Greater Noida — *Batch of 2025*
+* 💻 Passionate about **Java development, problem-solving, and system security**
+* 🌐 Exploring **front-end and full-stack web development**
+* 🔐 Keen interest in **cybersecurity and ethical hacking**
+* 🎨 Hobbyist in **drawing and creative ideation**
 
 ---
 
-### 🌟 Featured Projects
+## 🛠️ Tech Stack
 
-- **🛠 Enhanced Bank Management System**\
-  A full-stack banking system using **Spring Boot & MySQL** with **role-based access control, real-time notifications, and data visualization**.
-  [🔗 View Project](https://github.com/yourgithub/Enhanced-Bank-Management)
+### Languages
 
-- **💬 Chatbox with AI & Syntax Highlighting**\
-  A **chatbot** using **NVIDIA Llama 3.2 & Google Gemini API** with **Prism.js** for syntax highlighting.
-  [🔗 View Project](https://github.com/yourgithub/Chatbox-AI)
+* Java
+* HTML
+* CSS
+* Tailwind CSS
 
-- **🛒 E-commerce Website** *(In Progress)*\
-  Developing an e-commerce platform with **secure payments, inventory management, and user authentication**.
+### Databases
 
----
+* MySQL
 
-### 📫 Connect with Me
+### Frameworks & Tools
 
-
-
-
+* Git & GitHub
+* Visual Studio Code
+* Linux
 
 ---
 
-⭐ **Fun Fact:** My favorite food is **spicy ramen** 🍜🔥!
+## 🌟 Featured Projects
 
-💡 *Always open to collaborations and learning new things!* 😃
+### 🛠️ Enhanced Bank Management System
 
+A full-stack banking solution built with **Spring Boot** and **MySQL**, featuring:
+
+* Role-based access control
+* Real-time notifications
+* Data visualization dashboards
+
+---
+
+### 💬 Chatbox with AI
+
+A next-gen chatbot using **NVIDIA LLaMA 3.2** and **Google Gemini API**, offering:
+
+* Context-aware conversations
+* Local memory storage
+* Modular AI interaction system
+
+---
+
+## 📫 Connect with Me
+
+* 🌐 [LinkedIn: www.linkedin.com/in/swarnilraj](https://www.linkedin.com/in/swarnilraj)
+
+---
+
+> 💡 *Always open to collaborations, exciting ideas, and learning something new!* 😄
