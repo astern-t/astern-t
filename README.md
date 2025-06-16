@@ -23,13 +23,13 @@
 
 ### Databases
 
-* MySQL
+* ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white) MySQL
 
 ### Frameworks & Tools
 
-* Git & GitHub
-* Visual Studio Code
-* Linux
+* ![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white) Git & GitHub
+* ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white) Visual Studio Code
+* ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat\&logo=linux\&logoColor=black) Linux
 
 ---
 
